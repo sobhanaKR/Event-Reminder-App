@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.16636690647482014" />
+        <entry key="../../Android/Sdk/platforms/android-33/data/res/drawable-watch/sym_def_app_icon.xml" value="0.19" />
+        <entry key="../../Android/Sdk/platforms/android-33/data/res/drawable/sym_def_app_icon.xml" value="0.138" />
+        <entry key="../../Android/Sdk/platforms/android-33/data/res/drawable/sym_def_app_icon_background.xml" value="0.19" />
+        <entry key="app/src/main/res/drawable-anydpi/ic_delete.xml" value="0.19" />
+        <entry key="app/src/main/res/drawable-mdpi/ic_baseline_cake_24.xml" value="0.19" />
+        <entry key="app/src/main/res/drawable/ic_baseline_baby_changing_station.xml" value="0.138" />
+        <entry key="app/src/main/res/drawable/ic_baseline_cake.xml" value="0.138" />
+        <entry key="app/src/main/res/drawable/ic_baseline_cake_24.xml" value="0.138" />
+        <entry key="app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.19" />
+        <entry key="app/src/main/res/drawable/ic_baseline_card_giftcard_24.xml" value="0.19" />
+        <entry key="app/src/main/res/drawable/ic_baseline_delete_outline_24.xml" value="0.2775" />
+        <entry key="app/src/main/res/drawable/ic_baseline_local_florist_24.xml" value="0.19" />
+        <entry key="app/src/main/res/drawable/ic_baseline_wb_sunny_24.xml" value="0.19" />
+        <entry key="app/src/main/res/layout/activity_shopping.xml" value="0.18177083333333333" />
+        <entry key="app/src/main/res/layout/dialog_shopping_item.xml" value="0.17325227963525835" />
+        <entry key="app/src/main/res/layout/shopping_item.xml" value="0.35625" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
